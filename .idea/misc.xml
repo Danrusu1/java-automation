@@ -10,6 +10,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/playground/pom.xml" />
+        <option value="$PROJECT_DIR$/kusai-playground/pom.xml" />
+        <option value="$PROJECT_DIR$/roxana-playground/pom.xml" />
+        <option value="$PROJECT_DIR$/maria-playground/pom.xml" />
+        <option value="$PROJECT_DIR$/eduard-playground/pom.xml" />
+        <option value="$PROJECT_DIR$/mihai-playground/pom.xml" />
+        <option value="$PROJECT_DIR$/bianca-playground/pom.xml" />
       </list>
     </option>
   </component>

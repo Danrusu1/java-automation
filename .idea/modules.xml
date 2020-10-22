@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bianca-playground/bianca-playground.iml" filepath="$PROJECT_DIR$/bianca-playground/bianca-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eduard-playground/eduard-playground.iml" filepath="$PROJECT_DIR$/eduard-playground/eduard-playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-automation.iml" filepath="$PROJECT_DIR$/.idea/java-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kusai-playground/kusai-playground.iml" filepath="$PROJECT_DIR$/kusai-playground/kusai-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maria-playground/maria-playground.iml" filepath="$PROJECT_DIR$/maria-playground/maria-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mihai-playground/mihai-playground.iml" filepath="$PROJECT_DIR$/mihai-playground/mihai-playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/playground/playground.iml" filepath="$PROJECT_DIR$/playground/playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roxana-playground/roxana-playground.iml" filepath="$PROJECT_DIR$/roxana-playground/roxana-playground.iml" />
     </modules>
   </component>
 </project>
