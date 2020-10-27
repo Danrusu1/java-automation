@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="roxana-playground" />
         <module name="maria-playground" />
-        <module name="eduard-playground" />
-        <module name="playground" />
-        <module name="bianca-playground" />
         <module name="kusai-playground" />
+        <module name="bianca-playground" />
+        <module name="roxana-playground" />
+        <module name="playground" />
+        <module name="eduard-playground" />
         <module name="mihai-playground" />
       </profile>
     </annotationProcessing>
