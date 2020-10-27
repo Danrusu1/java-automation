@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maria-playground" />
-        <module name="kusai-playground" />
-        <module name="bianca-playground" />
         <module name="roxana-playground" />
-        <module name="playground" />
+        <module name="maria-playground" />
         <module name="eduard-playground" />
+        <module name="playground" />
+        <module name="bianca-playground" />
+        <module name="kusai-playground" />
         <module name="mihai-playground" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bianca-playground" target="1.5" />
       <module name="eduard-playground" target="1.5" />
-      <module name="kusai-playground" target="1.5" />
+      <module name="kusai-playground" target="1.8" />
       <module name="maria-playground" target="1.5" />
       <module name="mihai-playground" target="1.5" />
       <module name="playground" target="1.8" />
