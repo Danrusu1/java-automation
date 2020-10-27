@@ -1,3 +1,5 @@
+package functional_programming;
+
 /**
  * Description: file created for java-automation
  * Author: Dan Rusu (d.rusu@plan-net.com)
@@ -6,8 +8,6 @@
  * (c) 2020 Plan.Net-Technology - all copy, distribution not allowed without Plan.Net permission
  */
 
-public class Application {
-    public static void main(String[] args) {
-        System.out.println("Hello Mihai!");
-    }
+public interface TriFunctionExample <T, U, V, R> {
+    R apply(T t, U u, V v);
 }

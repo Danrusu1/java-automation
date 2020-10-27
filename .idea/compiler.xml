@@ -11,6 +11,7 @@
         <module name="eduard-playground" />
         <module name="playground" />
         <module name="bianca-playground" />
+        <module name="java-automation" />
         <module name="kusai-playground" />
         <module name="mihai-playground" />
       </profile>
@@ -18,6 +19,7 @@
     <bytecodeTargetLevel>
       <module name="bianca-playground" target="1.5" />
       <module name="eduard-playground" target="1.5" />
+      <module name="java-automation" target="1.8" />
       <module name="kusai-playground" target="1.5" />
       <module name="maria-playground" target="1.5" />
       <module name="mihai-playground" target="1.5" />
